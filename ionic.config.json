@@ -1,0 +1,7 @@
+{
+  "name": "DocuWallet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
